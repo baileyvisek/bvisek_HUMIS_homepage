@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bf1c42e-2a72-45a9-96bb-77ba1374c4d0" name="Changes" comment="new typog stylesheet to store common txt styles; refactored existing stylesheet for better org">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="7bf1c42e-2a72-45a9-96bb-77ba1374c4d0" name="Changes" comment="final org as class">
+      <change afterPath="$PROJECT_DIR$/contact-us.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/about-us.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inner_layout.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/stylesheets/inner-styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheets/inner-styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stylesheets/typography.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheets/typography.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +65,7 @@
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "full-website",
     "javascript.preferred.runtime.type.id": "node",
+    "last_opened_file_path": "/Users/baileyvisek/Fall '26/Interaction Design/HUMIS_homepage",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.jshint": "true",
@@ -79,6 +78,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/stylesheets" />
       <recent name="students-graduating" />
@@ -107,7 +109,7 @@
       <workItem from="1791767408171" duration="3367000" />
       <workItem from="1791817981056" duration="513000" />
       <workItem from="1791821977120" duration="12000" />
-      <workItem from="1791898863129" duration="4596000" />
+      <workItem from="1791898863129" duration="5703000" />
     </task>
     <task id="LOCAL-00001" summary="Initial project commit">
       <option name="closed" value="true" />
@@ -157,15 +159,33 @@
       <option name="project" value="LOCAL" />
       <updated>1791473136699</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="final org as class">
+      <option name="closed" value="true" />
+      <created>1791904178045</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1791904178045</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="494ca1e9-8468-4b84-8e3a-b4bcd0cf62c5" value="TOOL_WINDOW" />
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
+        <entry key="494ca1e9-8468-4b84-8e3a-b4bcd0cf62c5">
+          <value>
+            <State />
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State />
@@ -180,6 +200,7 @@
     <MESSAGE value="WIP: wrapping up inner page layout work, still need to iron out spacing n stuff" />
     <MESSAGE value="wrapped up inner layout stylesheet and created about-us html" />
     <MESSAGE value="new typog stylesheet to store common txt styles; refactored existing stylesheet for better org" />
-    <option name="LAST_COMMIT_MESSAGE" value="new typog stylesheet to store common txt styles; refactored existing stylesheet for better org" />
+    <MESSAGE value="final org as class" />
+    <option name="LAST_COMMIT_MESSAGE" value="final org as class" />
   </component>
 </project>
