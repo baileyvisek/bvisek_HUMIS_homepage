@@ -53,11 +53,11 @@ body {
 
                             &.active {
                                 font-weight: bold;
+                            }
 
                             &:hover {
                                 background-color: #505A2F;
                                 color: white;
-                            }
                             }
                         }
                     }

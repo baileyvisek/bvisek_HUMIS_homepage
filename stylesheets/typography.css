@@ -6,9 +6,7 @@ body {
     font-size: 16px;
 
     h1, h2, h3, h4, h5, h6 {
-        color: var(--burgundy);
-        margin-top: 0;
-        margin-bottom: 0;
+        margin-top:0px
     }
 
     h1, h2, h3 {
@@ -34,15 +32,20 @@ body {
 
     h5 {
         font-size: 1.25rem;
+        margin-bottom: 3px;
     }
 
     h6 {
-        font-size: 1rem;
+        font-size: 0.75rem;
+        margin-bottom: 1px;
+        padding-top: 15px
     }
 
     p {
         text-align: justify;
         font-size: 0.75rem;
+        margin-top: 5px;
+        margin-bottom:5px;
     }
 
 }
