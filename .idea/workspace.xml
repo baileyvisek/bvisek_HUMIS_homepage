@@ -4,15 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bf1c42e-2a72-45a9-96bb-77ba1374c4d0" name="Changes" comment="final org as class">
-      <change afterPath="$PROJECT_DIR$/james-L-clayton.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stylesheets/contact-styles.css" afterDir="false" />
+    <list default="true" id="7bf1c42e-2a72-45a9-96bb-77ba1374c4d0" name="Changes" comment="contact us mostly done, and research chair started">
+      <change afterPath="$PROJECT_DIR$/fellowship.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/james-styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/about-us.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact-us.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stylesheets/inner-styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheets/inner-styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stylesheets/typography.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheets/typography.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/james-L-clayton.html" beforeDir="false" afterPath="$PROJECT_DIR$/james-L-clayton.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stylesheets/contact-styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheets/contact-styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,7 +112,8 @@
       <workItem from="1791817981056" duration="513000" />
       <workItem from="1791821977120" duration="12000" />
       <workItem from="1791898863129" duration="10426000" />
-      <workItem from="1791986081224" duration="3054000" />
+      <workItem from="1791986081224" duration="3172000" />
+      <workItem from="1792031831662" duration="1298000" />
     </task>
     <task id="LOCAL-00001" summary="Initial project commit">
       <option name="closed" value="true" />
@@ -181,7 +179,23 @@
       <option name="project" value="LOCAL" />
       <updated>1791905046656</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="contact us mostly done, and research chair started">
+      <option name="closed" value="true" />
+      <created>1791989734416</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1791989734416</updated>
+    </task>
+    <task id="LOCAL-00010" summary="contact us mostly done, and research chair started">
+      <option name="closed" value="true" />
+      <created>1791989824175</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1791989824175</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,6 +229,7 @@
     <MESSAGE value="wrapped up inner layout stylesheet and created about-us html" />
     <MESSAGE value="new typog stylesheet to store common txt styles; refactored existing stylesheet for better org" />
     <MESSAGE value="final org as class" />
-    <option name="LAST_COMMIT_MESSAGE" value="final org as class" />
+    <MESSAGE value="contact us mostly done, and research chair started" />
+    <option name="LAST_COMMIT_MESSAGE" value="contact us mostly done, and research chair started" />
   </component>
 </project>
