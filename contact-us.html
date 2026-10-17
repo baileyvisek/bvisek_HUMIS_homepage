@@ -1,117 +1,84 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>HUMIS "inner" pages layout</title>
-    <link rel="stylesheet" href="stylesheets/contact-styles.css">
-    <link rel="stylesheet" href="stylesheets/typography.css">
+  <meta charset="UTF-8">
+  <title>HUMIS "inner" pages layout</title>
+  <link rel="stylesheet" href="stylesheets/inner-styles.css">
+  <link rel="stylesheet" href="stylesheets/typography.css">
+
+  <style>
+    main {
+      nav.inner-nav {
+        display: flex;
+        font-size: 11px;
+        color: var(--burgundy);
+
+        a{
+          color: var(--burgundy);
+          text-transform: uppercase;
+        }
+      }
+    }
+  </style>
+
 </head>
 
 <body>
 
 <section class="container">
 
-    <header>
-        <a href="index.html">
-            <img src="files/historyHeader.gif" alt="History homepage">
+  <header>
+    <a href="index.html">
+      <img src="files/historyHeader.gif" alt="History homepage">
+    </a>
+  </header>
+
+
+  <section class="middle">
+
+    <section class="left-side">
+      <nav>
+        <a href="about-us.html" class>About us</a>
+        <a href="#">Faculty &amp; Staff </a>
+        <a href="#">Undergraduate Students</a>
+        <a href="#">Graduate Students</a>
+        <a href="#">Courses &amp; Syllabi</a>
+        <a href="#">News &amp; Announcements</a>
+        <a href="#">Friends &amp; Alumni</a>
+        <a href="contact-us.html">Contact us</a>
+      </nav>
+
+      <div class="links">
+        <a href="#">
+          <img src="files/login-humis.gif" alt="Humis Login">
         </a>
-    </header>
-
-
-    <section class="middle">
-
-        <section class="left-side">
-            <nav>
-                <a href="about-us.html" class="active">About us</a>
-                <a href="#">Faculty &amp; Staff </a>
-                <a href="#">Undergraduate Students</a>
-                <a href="#">Graduate Students</a>
-                <a href="#">Courses &amp; Syllabi</a>
-                <a href="#">News &amp; Announcements</a>
-                <a href="#">Friends &amp; Alumni</a>
-                <a href="contact-us.html">Contact us</a>
-            </nav>
-
-            <div class="links">
-                <a href="#">
-                    <img src="files/login-humis.gif" alt="Humis Login">
-                </a>
-                <a href="#">
-                    <img src="files/login-cis.gif" alt="CIS Login">
-                </a>
-            </div>
-        </section>
-
-        <section class="right-side">
-
-            <nav class="top-nav">
-                <a href="#">Campus directory</a>
-                <a href="#">Department calendar</a>
-                <a href="contact-us.html">Contact us</a>
-                <a href="#">
-                    <img src="files/u_small.gif" alt="U of U Logo"/>
-                </a>
-            </nav>
-
-            <main>
-                <nav class="box-nav">
-                    <a href="#">Contact Information</a>
-                    <a href="#">Faculty Directory</a>
-                    <a href="#">Staff Directory</a>
-                </nav>
-
-
-                <h5> CONTACT INFORMATION </h5>
-
-                <h6><strong>U.S. MAIL</strong></h6>
-                <p>
-                    University of Utah <br>
-                    Department of History <br>
-                    380 S 1400 E RM 211 <br>
-                    Salt Lake City, UT 84112-0311 <br>
-                </p>
-
-                <h6><strong>CAMPUS MAIL</strong></h6>
-                <p>
-                  Department of History <br>
-                  211 C HALL
-                </p>
-
-                <h6><strong>PHONE</strong></h6>
-                <p>
-                    (801 581-6121)
-                </p>
-
-                <h6><strong>FAX</strong></h6>
-                <p>
-                    (801) 585-0580
-                </p>
-
-                <h6><strong>HOURS</strong></h6>
-                <p>
-                    Monday-Friday <br>
-                    8:00 AM - 5:00 PM
-                </p>
-
-            </main>
-
-            <nav class="bottom-nav">
-                <a href="#">Disclaimer</a>
-                <a href="#">Text only</a>
-                <a href="#">Webmaster</a>
-            </nav>
-
-        </section>
-
+        <a href="#">
+          <img src="files/login-cis.gif" alt="CIS Login">
+        </a>
+      </div>
     </section>
 
+    <section class="right-side">
 
-    <footer>
-        380 SOUTH 1400 EAST | 211 C HALL | SALT LAKE CITY | UT | 84112 | PHONE 810.585.0580
-    </footer>
+      <nav class="secondary top-nav">
+        <a href="#">Campus directory</a>
+        <a href="#">Department calendar</a>
+        <a href="contact-us.html">Contact us</a>
+        <a href="#">
+          <img src="files/u_small.gif" alt="U of U Logo"/>
+        </a>
+      </nav>
 
-</section>
+      <main>
 
-</body>
+        <nav class="secondary inner-nav">
+          <a href="#">Contact Information</a>
 
-</html>
+          <a href="#">Faculty Directory</a>
+
+          <a href="#">Staff Directory</a>
+        </nav>
+
+        <h3>Contact us</h3>
+
+      </main>

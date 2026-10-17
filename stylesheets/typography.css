@@ -1,12 +1,11 @@
 :root {
-    --burgundy: #A12D37;
+    --burgundy: #A12D37
 }
 
-body {
-    font-size: 16px;
+body{ font-size: 16px;
 
     h1, h2, h3, h4, h5, h6 {
-        margin-top: 0;
+        color: var(--burgundy);
     }
 
     h1, h2, h3 {
@@ -23,7 +22,8 @@ body {
     }
 
     h3 {
-        font-size: 1.875rem;
+        font-size: 1.75rem;
+        margin-bottom: 0.5rem;
     }
 
     h4 {
@@ -32,21 +32,14 @@ body {
 
     h5 {
         font-size: 1.25rem;
-        margin-bottom: 3px;
     }
 
     h6 {
-        font-size: 0.75rem;
-        margin-bottom: 1px;
-        padding-top: 15px
+        font-size: 1rem;
     }
 
-    p {
+    p{
         text-align: justify;
-        font-size: 0.75rem;
-        margin-top: 5px;
-        margin-bottom:5px;
     }
 
 }
-

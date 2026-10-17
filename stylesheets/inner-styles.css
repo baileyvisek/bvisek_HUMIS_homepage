@@ -70,8 +70,10 @@ body {
                     justify-content: space-between;
                     padding: 5px 10px;
 
-                    nav {
+                    nav.secondary {
                         text-align: right;
+                        display: flex;
+                        justify-content: flex-end;
 
                         a {
                             font-size: 10px;
