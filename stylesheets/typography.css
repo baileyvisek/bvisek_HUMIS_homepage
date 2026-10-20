@@ -6,6 +6,7 @@ body{ font-size: 16px;
 
     h1, h2, h3, h4, h5, h6 {
         color: var(--burgundy);
+        margin-top: 0;
     }
 
     h1, h2, h3 {

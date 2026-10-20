@@ -4,13 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bf1c42e-2a72-45a9-96bb-77ba1374c4d0" name="Changes" comment="contact us mostly done, and research chair started">
-      <change afterPath="$PROJECT_DIR$/files/students-graduating-squared-off.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stylesheets/images.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HUMIS_homepage.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheets/HUMIS_homepage.css" afterDir="false" />
+    <list default="true" id="7bf1c42e-2a72-45a9-96bb-77ba1374c4d0" name="Changes" comment="image stylesheet">
+      <change afterPath="$PROJECT_DIR$/faculty-and-staff.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/about-us.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contact-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact-us.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/james-styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stylesheets/HUMIS_homepage.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheets/layouts.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stylesheets/images.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheets/images.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stylesheets/inner-styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheets/inner-styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stylesheets/typography.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheets/typography.css" afterDir="false" />
     </list>
@@ -22,8 +23,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -120,7 +121,7 @@
       <workItem from="1792031831662" duration="1597000" />
       <workItem from="1792112538681" duration="3356000" />
       <workItem from="1792270191629" duration="3632000" />
-      <workItem from="1792502876824" duration="3547000" />
+      <workItem from="1792502876824" duration="6763000" />
     </task>
     <task id="LOCAL-00001" summary="Initial project commit">
       <option name="closed" value="true" />
@@ -226,7 +227,23 @@
       <option name="project" value="LOCAL" />
       <updated>1792502890903</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="contact us mostly done, and research chair started">
+      <option name="closed" value="true" />
+      <created>1792506446829</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1792506446829</updated>
+    </task>
+    <task id="LOCAL-00015" summary="image stylesheet">
+      <option name="closed" value="true" />
+      <created>1792506471934</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1792506471934</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -261,6 +278,7 @@
     <MESSAGE value="new typog stylesheet to store common txt styles; refactored existing stylesheet for better org" />
     <MESSAGE value="final org as class" />
     <MESSAGE value="contact us mostly done, and research chair started" />
-    <option name="LAST_COMMIT_MESSAGE" value="contact us mostly done, and research chair started" />
+    <MESSAGE value="image stylesheet" />
+    <option name="LAST_COMMIT_MESSAGE" value="image stylesheet" />
   </component>
 </project>
