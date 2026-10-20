@@ -12,7 +12,6 @@ body {
     section.container {
         background-color: #fff;
         width: 780px;
-        min-height: 600px;
 
         header {
             img {
@@ -107,14 +106,7 @@ body {
                     }
 
                     main {
-
-                        img {
-                            &.pull-right {
-                                float: right;
-                                width: 150px;
-                                margin: 0 0 15px 15px;
-                            }
-                        }
+                        min-height: 600px;
                     }
                 }
             }
