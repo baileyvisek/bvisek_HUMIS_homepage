@@ -1,5 +1,5 @@
 section.horizontal-two-column-layout {
-    border: 3px dashed #5203ff;
+    /*border: 3px dashed #5203ff;*/
     display: flex;
     min-height: 100%;
     padding: 10px;
@@ -35,7 +35,7 @@ section.horizontal-two-column-layout {
                                 text-decoration: none;
 
                                 &:hover {
-                                    text-emphasis: underline;
+                                    text-decoration: underline;
                                 }
                             }
                     }
