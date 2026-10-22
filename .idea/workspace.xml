@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bf1c42e-2a72-45a9-96bb-77ba1374c4d0" name="Changes" comment="image stylesheet">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/faculty-and-staff.html" beforeDir="false" afterPath="$PROJECT_DIR$/faculty-and-staff.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/james-L-clayton.html" beforeDir="false" afterPath="$PROJECT_DIR$/james-L-clayton.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stylesheets/layouts.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheets/layouts.css" afterDir="false" />
-    </list>
+    <list default="true" id="7bf1c42e-2a72-45a9-96bb-77ba1374c4d0" name="Changes" comment="caught up on nik's speedrun" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -117,7 +112,7 @@
       <workItem from="1792112538681" duration="3356000" />
       <workItem from="1792270191629" duration="3632000" />
       <workItem from="1792502876824" duration="6981000" />
-      <workItem from="1792617976047" duration="670000" />
+      <workItem from="1792617976047" duration="950000" />
     </task>
     <task id="LOCAL-00001" summary="Initial project commit">
       <option name="closed" value="true" />
@@ -247,7 +242,15 @@
       <option name="project" value="LOCAL" />
       <updated>1792509904566</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="caught up on nik's speedrun">
+      <option name="closed" value="true" />
+      <created>1792618926614</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1792618926614</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -283,6 +286,7 @@
     <MESSAGE value="final org as class" />
     <MESSAGE value="contact us mostly done, and research chair started" />
     <MESSAGE value="image stylesheet" />
-    <option name="LAST_COMMIT_MESSAGE" value="image stylesheet" />
+    <MESSAGE value="caught up on nik's speedrun" />
+    <option name="LAST_COMMIT_MESSAGE" value="caught up on nik's speedrun" />
   </component>
 </project>
