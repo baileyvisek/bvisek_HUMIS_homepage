@@ -12,12 +12,34 @@
                 display: flex;
                 font-size: 11px;
                 color: var(--burgundy);
-                margin-top: 2rem;
                 gap: 10px;
+                border-bottom: 2px solid var(--dark);
+                padding-bottom: 15px;
+                margin-bottom: 15px;
 
                 a {
                     color: var(--burgundy);
                     text-transform: uppercase;
+                    text-decoration: none;
+
+                    &:hover {
+                        text-decoration: underline;
+                    }
+                }
+            }
+            section.content {
+                display: flex;
+                flex-direction: column;
+                gap: 1rem;
+
+                div {
+                    h6 {
+                        color: var(--dark);
+                    }
+
+                    p {
+                        margin: 0;
+                    }
                 }
             }
         }
@@ -81,11 +103,46 @@
                     <a href="#">Staff Directory</a>
                 </nav>
 
-                <h3>Contact us</h3>
+                <section class="content">
+                    <h3>Contact us</h3>
 
+                    <div>
+                        <h6>U.S. MAIL</h6>
+                        <p>
+                            University of Utah <br/>
+                            Department of History<br/>
+                            380 S 1400 E RM 211<br/>
+                            Salt Lake City, UT 84112-031
+                        </p>
+                    </div>
 
-
-
+                    <div>
+                        <h6>CAMPUS MAIL</h6>
+                        <p>
+                            Department of History
+                            211 C HALL
+                        </p>
+                    </div>
+                    <div>
+                        <h6>PHONE</h6>
+                        <p>
+                            (801) 581-6121
+                        </p>
+                    </div>
+                    <div>
+                        <h6>FAX</h6>
+                        <p>
+                            (801) 585-0580
+                        </p>
+                    </div>
+                    <div>
+                        <h6>HOURS</h6>
+                        <p>
+                        Monday - Friday
+                        8:00 AM - 5:00 PM
+                        </p>
+                    </div>
+                </section>
 
 
 
