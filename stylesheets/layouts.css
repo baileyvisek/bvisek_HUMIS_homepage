@@ -83,6 +83,7 @@ section.contact-form {
     display: flex;
     flex-direction: column;
     gap: 1rem;
+    align-items: flex-start;
 
     label {
         display: fled;
