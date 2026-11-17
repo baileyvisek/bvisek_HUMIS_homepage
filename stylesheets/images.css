@@ -23,6 +23,11 @@ main {
             }
         }
 
+        &.center {
+            min-width: 100%;
+
+        }
+
         h6 {
             text-align: center;
         }

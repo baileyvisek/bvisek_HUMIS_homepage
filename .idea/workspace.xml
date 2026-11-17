@@ -4,7 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bf1c42e-2a72-45a9-96bb-77ba1374c4d0" name="Changes" comment="readme" />
+    <list default="true" id="7bf1c42e-2a72-45a9-96bb-77ba1374c4d0" name="Changes" comment="yeeeeee">
+      <change afterPath="$PROJECT_DIR$/advising.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courses-and-syllabi.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/department-calendar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faculty-listing.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/grad-students.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/undergrad-students.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/undergrads.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graduate-students.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new-courses.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/undergraduate-students.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/about-us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact-us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/faculty-and-staff.html" beforeDir="false" afterPath="$PROJECT_DIR$/faculty-and-staff.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fellowship.html" beforeDir="false" afterPath="$PROJECT_DIR$/fellowship.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/james-L-clayton.html" beforeDir="false" afterPath="$PROJECT_DIR$/james-L-clayton.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stylesheets/images.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheets/images.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stylesheets/layouts.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheets/layouts.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stylesheets/typography.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheets/typography.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +66,9 @@
   &quot;fromUser&quot;: false
 }</component>
   <component name="ProjectId" id="3K0PRAehjTE7T4ZS1rJgkNKhujr" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -79,6 +102,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/files" />
       <recent name="$PROJECT_DIR$/stylesheets" />
       <recent name="students-graduating" />
     </key>
@@ -122,6 +146,9 @@
       <workItem from="1793197724447" duration="35000" />
       <workItem from="1793197785348" duration="225000" />
       <workItem from="1793889549854" duration="3490000" />
+      <workItem from="1793913214351" duration="2872000" />
+      <workItem from="1794436853621" duration="270000" />
+      <workItem from="1794874270502" duration="8986000" />
     </task>
     <task id="LOCAL-00001" summary="Initial project commit">
       <option name="closed" value="true" />
@@ -315,7 +342,15 @@
       <option name="project" value="LOCAL" />
       <updated>1793893395494</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="readme">
+      <option name="closed" value="true" />
+      <created>1793913223409</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1793913223409</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -355,6 +390,7 @@
     <MESSAGE value="reuse layout on other pages" />
     <MESSAGE value="contact catch up" />
     <MESSAGE value="readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="readme" />
+    <MESSAGE value="yeeeeee" />
+    <option name="LAST_COMMIT_MESSAGE" value="yeeeeee" />
   </component>
 </project>

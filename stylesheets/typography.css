@@ -60,9 +60,14 @@ body{ font-size: 16px;
         }
 
         .shrug {
-            font-size: 1.5rem;
+            font-size: 1rem;
             color: var(--burgundy);
             font-weight: bold;
+        }
+
+        .listing {
+            font-size: 0.75rem;
+            color: var(--burgundy);
         }
     }
 
