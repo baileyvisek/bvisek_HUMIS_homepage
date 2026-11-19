@@ -5,25 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7bf1c42e-2a72-45a9-96bb-77ba1374c4d0" name="Changes" comment="yeeeeee">
-      <change afterPath="$PROJECT_DIR$/advising.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courses-and-syllabi.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/department-calendar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/faculty-listing.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/grad-students.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/undergrad-students.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/undergrads.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graduate-students.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new-courses.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/undergraduate-students.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/calendar-C.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/calendar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/download-poster.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/small-pottery.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/student-on-hill.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/view-calendar.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/about-us.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact-us.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/faculty-and-staff.html" beforeDir="false" afterPath="$PROJECT_DIR$/faculty-and-staff.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fellowship.html" beforeDir="false" afterPath="$PROJECT_DIR$/fellowship.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/james-L-clayton.html" beforeDir="false" afterPath="$PROJECT_DIR$/james-L-clayton.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stylesheets/images.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheets/images.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stylesheets/layouts.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheets/layouts.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/courses-and-syllabi.html" beforeDir="false" afterPath="$PROJECT_DIR$/courses-and-syllabi.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/department-calendar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/friends-and-alums.html" beforeDir="false" afterPath="$PROJECT_DIR$/friends-and-alums.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-courses.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-and-announcements.html" beforeDir="false" afterPath="$PROJECT_DIR$/news-and-announcements.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stylesheets/typography.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheets/typography.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/undergraduate-students.html" beforeDir="false" afterPath="$PROJECT_DIR$/undergraduate-students.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +56,7 @@
 }</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
+    <option name="showPreview" value="true" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2,
@@ -148,7 +145,13 @@
       <workItem from="1793889549854" duration="3490000" />
       <workItem from="1793913214351" duration="2872000" />
       <workItem from="1794436853621" duration="270000" />
-      <workItem from="1794874270502" duration="8986000" />
+      <workItem from="1794874270502" duration="9000000" />
+      <workItem from="1794926468404" duration="500000" />
+      <workItem from="1794931512985" duration="11000" />
+      <workItem from="1794931598924" duration="35000" />
+      <workItem from="1794967800790" duration="3098000" />
+      <workItem from="1795037909851" duration="2605000" />
+      <workItem from="1795122768942" duration="4391000" />
     </task>
     <task id="LOCAL-00001" summary="Initial project commit">
       <option name="closed" value="true" />
@@ -350,7 +353,15 @@
       <option name="project" value="LOCAL" />
       <updated>1793913223409</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="yeeeeee">
+      <option name="closed" value="true" />
+      <created>1794883396833</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1794883396833</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
