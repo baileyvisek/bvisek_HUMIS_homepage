@@ -4,22 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bf1c42e-2a72-45a9-96bb-77ba1374c4d0" name="Changes" comment="yeeeeee">
-      <change afterPath="$PROJECT_DIR$/files/calendar-C.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/calendar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/download-poster.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/small-pottery.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/student-on-hill.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/view-calendar.png" afterDir="false" />
+    <list default="true" id="7bf1c42e-2a72-45a9-96bb-77ba1374c4d0" name="Changes" comment="almost there :P">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/about-us.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/courses-and-syllabi.html" beforeDir="false" afterPath="$PROJECT_DIR$/courses-and-syllabi.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/department-calendar.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/friends-and-alums.html" beforeDir="false" afterPath="$PROJECT_DIR$/friends-and-alums.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new-courses.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news-and-announcements.html" beforeDir="false" afterPath="$PROJECT_DIR$/news-and-announcements.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stylesheets/typography.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheets/typography.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/undergraduate-students.html" beforeDir="false" afterPath="$PROJECT_DIR$/undergraduate-students.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,7 +138,8 @@
       <workItem from="1794931598924" duration="35000" />
       <workItem from="1794967800790" duration="3098000" />
       <workItem from="1795037909851" duration="2605000" />
-      <workItem from="1795122768942" duration="4391000" />
+      <workItem from="1795122768942" duration="4836000" />
+      <workItem from="1795141942633" duration="656000" />
     </task>
     <task id="LOCAL-00001" summary="Initial project commit">
       <option name="closed" value="true" />
@@ -361,7 +349,23 @@
       <option name="project" value="LOCAL" />
       <updated>1794883396833</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="almost there :P">
+      <option name="closed" value="true" />
+      <created>1795129140178</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1795129140178</updated>
+    </task>
+    <task id="LOCAL-00028" summary="almost there :P">
+      <option name="closed" value="true" />
+      <created>1795129293238</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1795129293238</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -402,6 +406,7 @@
     <MESSAGE value="contact catch up" />
     <MESSAGE value="readme" />
     <MESSAGE value="yeeeeee" />
-    <option name="LAST_COMMIT_MESSAGE" value="yeeeeee" />
+    <MESSAGE value="almost there :P" />
+    <option name="LAST_COMMIT_MESSAGE" value="almost there :P" />
   </component>
 </project>
